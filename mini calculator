@@ -1,0 +1,14 @@
+a=int(input("give a number"))
+b=int(input("give a number"))
+calculate=input("mul/div/add/sub")
+if (calculate=add):
+   print(a+b)
+elif (calculate=sub):
+   print(a-b)
+elif (calculate=mul):
+   print(a*b) 
+elif (calculate=div):
+   print(a/b)
+else:
+   print("please give a valid input")
+   
